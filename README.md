@@ -2,7 +2,7 @@
 
 ##  开始
 ```
-brotheryouUI是一个基于vue3的开源组件库，只支持在vue3中使用，项目使用技术Vue3+vite+typescript，欢迎下载使用
+brotheryouUI is an open source component library based on vue3 that is only supported in vue3. The project uses technology Vue3+vite+typescript. Please download and use it
 ```
 
 ## 介绍
